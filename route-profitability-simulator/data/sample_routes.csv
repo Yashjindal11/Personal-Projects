@@ -1,0 +1,4 @@
+route_name,origin,dest,distance_nm
+JFK-ORD,JFK,ORD,740
+LAX-SFO,LAX,SFO,338
+LHR-CDG,LHR,CDG,213

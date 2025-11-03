@@ -1,0 +1,4 @@
+aircraft_type,seats,cruise_speed_kts,fuel_burn_kgph,fixed_costs_per_flight
+A320,180,450,2500,500
+B737-800,162,440,2400,480
+A321neo,210,460,2200,600
